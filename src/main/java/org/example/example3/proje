@@ -1,0 +1,11 @@
+// int sayi default 1 -> anatasyon olusturcaz
+
+Kedi Class
+
+-> sesCikar
+
+@Anatasyon(sayi = 5)
+sout("meow")
+
+Kedi metodunu verdiğimiz sayı kadar döndürcek
+main -> for()

@@ -1,0 +1,11 @@
+-> AuthorAnnotation -> String authorName default ""
+                    -> String dateOfBirth default ""
+
+LordOfRings
+    -> bookName
+    -> numberOfPage
+    -> subjectOfTheBook
+
+Main sınıfı içerisinde
+
+    field lar ve yazar anatasyonunun içerisindekileri bastıracaz
